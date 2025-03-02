@@ -7,7 +7,7 @@ The focus of this analysis is on gender attitudes, particularly whether people b
 
 ## 2. Dataset Location
 
-In the code I used "C:\\nis\DA3\WVS_subset.csv" path for the data. But the code itself will be in the GitHub Folder. 
+In the code I used "C:\\nis\DA3\WVS_subset.csv" path for the data. But the code itself will be in the GitHub Folder (https://github.com/eshem27/AI-Assignments/blob/main/AI_HW1.ipynb). 
 
 ## 3. Variables Description
 
